@@ -1,6 +1,6 @@
 <?php
+
     include '../php/conn.php';
-    
     session_start();
     $email = "";
     $name = "";

@@ -120,7 +120,11 @@
                     <div class="sidenav-footer">
                         <div class="sidenav-footer-content">
                             <div class="sidenav-footer-subtitle">Logged in as:</div>
-                            <div class="sidenav-footer-title"><?php echo $name; ?></div>
+                            <?php
+
+    echo '<div class="sidenav-footer-title">' . $name . '</div>';
+?>
+
                         </div>
                     </div>
                 </nav>

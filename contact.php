@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Contact Us | Global BD</title>
+        <title>Contact Us | BD Organization</title>
         <link href="css/styles.css" rel="stylesheet" />
         <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
@@ -20,7 +20,7 @@
                     <!-- Navbar-->
                     <nav class="navbar navbar-marketing navbar-expand-lg bg-white navbar-light fixed-top">
                         <div class="container px-5">
-                            <a class="navbar-brand text-primary" href="index.html">Global BD</a>
+                            <a class="navbar-brand text-primary" href="index.html">BD Organization</a>
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><i data-feather="menu"></i></button>
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul class="navbar-nav ms-auto me-lg-5">
@@ -88,17 +88,17 @@
                             <div class="row gx-5 justify-content-center">
                                 <div class="col-lg-8 text-center">
                                     <h2>Can't find the answer you need?</h2>
-                                    <p class="lead mb-5">Contact us and we'll get back to you as soon as possible with a solution to whatever issues you're having with Global BD.</p>
+                                    <p class="lead mb-5">Contact us and we'll get back to you as soon as possible with a solution to whatever issues you're having with BD Organization.</p>
                                 </div>
                             </div>
                             <div class="row gx-5 align-items-center mb-10">
                                 <div class="col-lg-6 text-center mb-5 mb-lg-0">
                                     <div class="section-preheading">Call Anytime</div>
-                                    <a href="#!">+8801676127853</a>
+                                    <a href="#!">+8801743695464</a>
                                 </div>
                                 <div class="col-lg-6 text-center">
                                     <div class="section-preheading">Email Us</div>
-                                    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">omar@iub.edu.bd</a>
+                                    <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=new">Emon@iub.edu.bd</a>
                                 </div>
                             </div>
                             <form method="post" action="php/contact.php">
@@ -166,14 +166,14 @@
                                     <div class="col-lg-4 col-md-6">
                                         <div class="text-uppercase-expanded text-xs mb-4">Contact Details</div>
                                         
-                                        <p>Plot 16, Block B<br>Aftabuddin Ahmed Road<br> Bashundhara, Dhaka , Bangladesh <br>Phone number: 01720-072095</p>
+                                        <p>Plot 16, Block B<br>Monjurul Hasan Emon<br> Rampura , Dhaka , Bangladesh <br>Phone number: 01743695464</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
                         <hr class="my-5" />
                         <div class="row gx-5 align-items-center">
-                            <div class="col-md-6 small">Copyright &copy; Global BD-2023</div>
+                            <div class="col-md-6 small">Copyright &copy; BD Organization-2023</div>
                             <div class="col-md-6 text-md-end small">
                                 <a href="#!">Privacy Policy</a>
                                 &middot;

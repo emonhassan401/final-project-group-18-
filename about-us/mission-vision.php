@@ -6,7 +6,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Mission and Vision |  Global BD</title>
+        <title>Mission and Vision |  BD Organization</title>
         <link href="../css/styles.css" rel="stylesheet" />
         <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
         <link rel="icon" type="image/x-icon" href="../assets/img/favicon.ico" />
@@ -20,7 +20,7 @@
                     <!-- Navbar-->
                     <nav class="navbar navbar-marketing navbar-expand-lg bg-white navbar-light fixed-top">
                         <div class="container px-5">
-                            <a class="navbar-brand text-primary" href="../index.html">Global BD</a>
+                            <a class="navbar-brand text-primary" href="../index.html">BD Organization</a>
                             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><i data-feather="menu"></i></button>
                             <div class="collapse navbar-collapse" id="navbarSupportedContent">
                                 <ul class="navbar-nav ms-auto me-lg-5">
@@ -72,7 +72,7 @@
                                 <div class="row gx-5 justify-content-center">
                                     <div class="col-lg-8">
                                         <h1 class="page-header-ui-title mb-3">Mission and Vision</h1>
-                                        <p class="page-header-ui-text">Global BD connects the young generation with opportunities to transform their lives.</p>
+                                        <p class="page-header-ui-text">BD Organization connects the young generation with opportunities to transform their lives.</p>
                                     </div>
                                 </div>
                             </div>
@@ -165,7 +165,7 @@
                                     <div class="col-lg-4 col-md-6">
                                         <div class="text-uppercase-expanded text-xs mb-4">Contact Details</div>
                                         
-                                        <p>Plot 16, Block B<br>Aftabuddin Ahmed Road<br> Bashundhara, Dhaka , Bangladesh <br>Phone number: 01720-072095</p>
+                                        <p>Plot 16, Block B<br>monjurul Hasan Emon<br> Rampura, Dhaka , Bangladesh <br>Phone number: 01743695464</p>
                                     </div>
                                 </div>
                             </div>

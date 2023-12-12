@@ -3,8 +3,10 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $dbname = "youth360";
+$port = 3306;
 
-$mysqli = new mysqli($servername,$username,$password,$dbname);
+$mysqli = new mysqli($servername, $username, $password, $dbname, $port);
+
 
 
 if ($mysqli -> connect_errno) {
